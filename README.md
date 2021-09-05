@@ -24,22 +24,22 @@ Run this application by following these steps:
 
 ## Screenshots
 #### Home
-![Home](https://github.com/adityaviki/Ethereum-Wallet/blob/main/screenshots/home.png)
+![Home](https://github.com/adityaviki/Ethereum-Wallet/blob/main/screenshot/home.png)
 
 #### Transfer Funds
-![Transfer Funds](https://github.com/adityaviki/Ethereum-Wallet/blob/main/screenshots/transfer-funds.png)
+![Transfer Funds](https://github.com/adityaviki/Ethereum-Wallet/blob/main/screenshot/transfer-funds.png)
 
 #### Select Currency Unit
-![Select Currency Unit](https://github.com/adityaviki/Ethereum-Wallet/blob/main/screenshots/currency-select.png)
+![Select Currency Unit](https://github.com/adityaviki/Ethereum-Wallet/blob/main/screenshot/currency-select.png)
 
 #### Add Wallet Contributor
-![Add Wallet Contributor](https://github.com/adityaviki/Ethereum-Wallet/blob/main/screenshots/wallet-contributor.png)
+![Add Wallet Contributor](https://github.com/adityaviki/Ethereum-Wallet/blob/main/screenshot/wallet-contributor.png)
 
 #### Wallet Contributor Permissions
-![Wallet Contributor Permissions](https://github.com/adityaviki/Ethereum-Wallet/blob/main/screenshots/contributor-permissions.png)
+![Wallet Contributor Permissions](https://github.com/adityaviki/Ethereum-Wallet/blob/main/screenshot/contributor-permissions.png)
 
 #### Wallet Deposit
-![Wallet Deposit](https://github.com/adityaviki/Ethereum-Wallet/blob/main/screenshots/deposit.png)
+![Wallet Deposit](https://github.com/adityaviki/Ethereum-Wallet/blob/main/screenshot/deposit.png)
 
 #### Wallet Withdraw
-![Wallet Withdraw](https://github.com/adityaviki/Ethereum-Wallet/blob/main/screenshots/withdraw.png)
+![Wallet Withdraw](https://github.com/adityaviki/Ethereum-Wallet/blob/main/screenshot/withdraw.png)
