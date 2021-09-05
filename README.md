@@ -1,4 +1,4 @@
-# EtherWallet
+# Ethereum Wallet
 Ethereum Wallet is money transfer and wallet management application which uses Ethereum to transfer money. This application is developed using [Meteor](https://www.meteor.com/) and [Angular2](https://angular.io).
 
 ## Quick Start
