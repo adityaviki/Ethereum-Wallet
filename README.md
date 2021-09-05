@@ -11,7 +11,11 @@ Run this application by following these steps:
     $ cd Ethereum-Wallet
     ```
 
-3. **Run**
+2. **Setup local ethereum network using ganache**
+
+3. **Connect with metamask**
+
+4. **Run**
     1. **Resolve dependencies**
     ```sh
     $ npm install
